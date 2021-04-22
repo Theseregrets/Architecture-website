@@ -1,0 +1,14 @@
+#header{
+    height: 100vh;
+    background-image: url("https://images.pexels.com/photos/262367/pexels-photo-262367.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    color: var(--color-white)
+}
+
+.header-sub{
+    border: 2rem solid var(--color-primary-light);
+    width: 55rem;
+    height: 35rem;
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}

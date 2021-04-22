@@ -1,0 +1,36 @@
+#nav{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    position: absolute;
+    width: 100%;
+}
+
+
+.nav__info{
+    padding: 2rem;
+}
+.nav__info ul{
+
+    display: flex;
+    list-style: none;
+    padding: 0 4rem;
+}
+
+.nav__info ul li ul li a{
+    color: var(--color-black);
+    letter-spacing: 2rem;
+}
+.nav__info ul li ul li a:hover{
+    color: var(--color-primary);
+}
+
+.bars{
+    font-size: 4rem;
+    float: right;
+}
+.bars:hover{
+    font-size: 5rem;
+    line-height: 2rem;
+}

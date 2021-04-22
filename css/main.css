@@ -1,0 +1,19 @@
+@import "./abstract/variables.css";
+@import "./abstract/utils.css";
+
+
+@import "./base/base.css";
+@import "./base/buttons.css";
+@import "./base/typography.css";
+@import "./base/utils.css";
+
+@import "./components/client.css";
+@import "./components/contact.css";
+@import "./components/current.css";
+@import "./components/footer.css";
+@import "./components/header.css";
+@import "./components/moto.css";
+@import "./components/nav.css";
+@import "./components/projects.css";
+@import "./components/specialization.css";
+@import "./components/team.css";

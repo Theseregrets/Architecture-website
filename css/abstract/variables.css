@@ -1,0 +1,16 @@
+:root{
+    
+    --color-primary-light: #fea75e;
+    --color-primary: #f8a25b;
+    --color-white: #fff;
+    --color-grey-light: #7a7a7a;
+    --color-black: #444 ;
+    --color-grey: #54595f ;
+
+    --font-primary: 'Poppins', sans-serif;
+    --font-weight-primary: 400;
+
+    --font-secondary: 'Roboto', sans-serif;
+    --font-weight-secondary: 600;
+
+}
